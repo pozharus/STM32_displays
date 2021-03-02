@@ -1,0 +1,7 @@
+main.c:64:7:Reset_HLx_Leds	8	static
+main.c:74:5:main	16	static
+main.c:164:6:SystemClock_Config	88	static
+main.c:205:13:MX_USART1_UART_Init	8	static
+main.c:238:13:MX_USART6_UART_Init	8	static
+main.c:271:13:MX_GPIO_Init	40	static
+main.c:318:6:Error_Handler	4	static
